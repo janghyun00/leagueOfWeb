@@ -1,0 +1,25 @@
+.header {
+    background: #929292; 
+    clear: both;
+    height: 75px;
+}
+
+#logo {
+      float:left;
+      margin: 0;
+}
+ 
+#navlist {
+      float: right;
+      margin-top: 30px;
+} 
+      
+li {
+    display: inline;
+    list-style-type: none;
+    padding-right: 20px;
+    a:link{
+        line-height: 75px;
+        height: 75px;
+    }
+}
